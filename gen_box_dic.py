@@ -1,3 +1,4 @@
+'自动打控制点v1.0'
 def gen_box_dic(m,n):
     'm为行，n为列'
 
